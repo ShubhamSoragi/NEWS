@@ -1,3 +1,5 @@
+Name :- Shubham Singh Soragi
+
 # NEWS
 
 Here are the key dependencies and technologies used in the project:
